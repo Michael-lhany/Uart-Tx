@@ -25,3 +25,5 @@ processing, however Data_Valid get high.
 1: Odd parity bit
 ## Block diagram
 (https://github.com/Michael-lhany/Uart-Tx/blob/ca213d07d9d876be1879c81c8fbf4532dd28d21d/Block%20Diagram.png)
+##
+* I have added a run.do and a wave.do so it can be easier for you to try the project out on questasim
