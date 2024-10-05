@@ -24,4 +24,4 @@ processing, however Data_Valid get high.
 0: Even parity bit
 1: Odd parity bit
 ## Block diagram
-Block Diagram.pnghttps://github.com/Michael-lhany/Uart-Tx/blob/ca213d07d9d876be1879c81c8fbf4532dd28d21d/Block%20Diagram.png
+(https://github.com/Michael-lhany/Uart-Tx/blob/ca213d07d9d876be1879c81c8fbf4532dd28d21d/Block%20Diagram.png)
