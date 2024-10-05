@@ -23,3 +23,5 @@ processing, however Data_Valid get high.
 *  PAR_TYP (Configuration)
 0: Even parity bit
 1: Odd parity bit
+## Block diagram
+![Alt Text](./Block diagram.png)
